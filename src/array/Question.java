@@ -28,6 +28,7 @@ public class Question {
 	    for(int i = 0;i<copyIndex;i++) {
 	    	System.out.print(lotto[i]+" ");	    	
 	    }
+	}
 		
 	
 //	
